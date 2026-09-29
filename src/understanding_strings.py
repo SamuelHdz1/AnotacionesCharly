@@ -5,7 +5,7 @@ Un string es de manera sencilla una serie de caracteres.
 En python, todo lo que se encuentre entre comillas simples '' 
 o dentro de comillas dobles "" se considera un string.
 
-Ejemplo: "Esto es un string"
+Ejemplo: "Esto es un string" 
 'Esto también es un string'
 'Le dije a un amigo, "python es mi lenguaje favorito"'
 " El lenguaje 'python' lleva el nombre por Monty Python, no por la serpiente "

@@ -23,17 +23,17 @@ un espacio (), tabuladores (\t)  y finales de línea (\n).
 
 Loa whitespaces se utilizan comúnmente para
 organizar las salidas de texto a usuario
-de tal manera que sea más amigable de lerr o ber para los usarios
+de tal manera que sea más amigable de leer o ver para los usuarios
 """
 
-print ("python")
-print ("\tpython")
-print ("\t\tpython")
-print ("lenguajes: \n\tpython\nC\nJavaScript")
+print("python")
+print("\tpython")
+print("\t\tpython")
+print("lenguajes: \n\tpython\nC\nJavaScript")
 
 #Concatenación de Strings utilizando F-strings
 
-print ("f-strings")
-famous_person = "cabeza de vaca"
-message = f"{famous_person} dijo que era buen gobernador"
-print = (message)
+print("f-strings")
+famous_person = "charly mercury"
+message = f' {famous_person} una vez dijo: Python es mejor que C'
+print(message)
