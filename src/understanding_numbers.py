@@ -68,3 +68,13 @@ print(type(age), type ("Hola"), type(0.54), type(True))
 #type()
 
 #Hemos visto dos tipos de variables. strings y números enteros
+#QUE HEMOS VISTO EN CLASE
+"""Build-in
+print()
+sorted()
+type()
+len()
+str()
+list()
+range()
+"""

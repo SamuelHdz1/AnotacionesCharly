@@ -3,7 +3,7 @@
 
 """
 Las listas nos permiten almacenar información en un lugar,
-la canridad que se desee: ya sean pocos elementos o millones de elementos.
+la cantidad que se desee: ya sean pocos elementos o millones de elementos.
 
 Una lista es una colección de ítems (elementos) que tiene
 un orden particular. Se pueden crear listas que incluyan 

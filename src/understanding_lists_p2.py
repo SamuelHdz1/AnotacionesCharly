@@ -25,4 +25,7 @@ print(motorcycles_2)
 motorcycles_2.append("honda") # 1 elemento
 motorcycles_2.append("yamaha") # 2 elemento
 motorcycles_2.append("suzuki") # 3 elemento
+motorcycles_2.append("ducati")
 print(motorcycles_2)
+
+##Método  
